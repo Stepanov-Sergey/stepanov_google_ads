@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="3.1" method="upgrade">
-
 	<name>GOOGLE_ADSENCE</name>
 	<author>Sergey Stepanov</author>
 	<creationDate>17.11.2014</creationDate>
@@ -13,23 +12,23 @@
    <languages>
         <language tag="ru-RU">language/ru-RU/ru-RU.mod_stepanov_googleads.ini</language>
         <language tag="ru-RU">language/ru-RU/ru-RU.mod_stepanov_googleads.sys.ini</language>
-    </languages>
-
-
-
-	<files>
-<filename module="mod_stepanov_googleads">mod_stepanov_googleads.php</filename>
-<filename>mod_stepanov_googleads.xml</filename>
-
-<folder>language</folder>
-</files>
-  <config>
-    <fields name="params" >
-      <fieldset name="SETTINGS">
+   </languages>
+   <files>
+	<filename module="mod_stepanov_googleads">mod_stepanov_googleads.php</filename>
+	<filename>mod_stepanov_googleads.xml</filename>
+	<folder>language</folder>
+   </files>
+   <config>
+     <fields name="params" >
+      	<fieldset name="SETTINGS">
 		<field name="googleads_key" type="text" default="ca-pub-1401540851759667" label="MOD_KEY_STEPANOV_GOOGLEADS" description="MOD_KEY_STEPANOV_GOOGLEADS_DESC"></field>
 		<field name="googleads_id" type="text" default="5843361207" label="MOD_KEY_STEPANOV_GOOGLEADS" description="MOD_KEY_STEPANOV_GOOGLEADS_DESC"></field>
-		</fieldset>
-    </fields>
-  </config>
+	</fieldset>
+     </fields>
+    </config>
+    
+    <updateservers>
+        <server type="extension" name="GOOGLE_ADSENCE" priority="1">https://github.com/Stepanov-Sergey/stepanov_google_ads/blob/master/mod_stepanov_googleads.xml</server>
+</updateservers>
 
 </extension>
