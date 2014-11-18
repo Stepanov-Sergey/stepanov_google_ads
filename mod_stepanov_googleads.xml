@@ -3,7 +3,7 @@
 	<name>GOOGLE_ADSENCE</name>
 	<author>Sergey Stepanov</author>
 	<creationDate>17.11.2014</creationDate>
-	<copyright>Copyright (C) 2013 All rights reserved.</copyright>
+	<copyright>Copyright (C) 2014 All rights reserved.</copyright>
 	<license>GNU General Public License</license>
 	<authorEmail>tobeornottobe2006@yandex.ru</authorEmail>
 	<authorUrl>stepanov.nichost.ru</authorUrl>
@@ -32,9 +32,5 @@
 	</fieldset>
      </fields>
     </config>
-    
-
-    
-    
-
+ 
 </extension>
