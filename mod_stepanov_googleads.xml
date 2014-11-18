@@ -18,6 +18,12 @@
 	<filename>mod_stepanov_googleads.xml</filename>
 	<folder>language</folder>
    </files>
+   
+    <updateservers>
+        <server type="extension" name="GOOGLE_ADSENCE" priority="1">https://raw.githubusercontent.com/Stepanov-Sergey/stepanov_google_ads/master/mod_stepanov_googleads.xml</server>
+    </updateservers>
+   
+   
    <config>
      <fields name="params" >
       	<fieldset name="SETTINGS">
@@ -27,8 +33,8 @@
      </fields>
     </config>
     
-    <updateservers>
-        <server type="extension" name="GOOGLE_ADSENCE" priority="2">https://raw.githubusercontent.com/Stepanov-Sergey/stepanov_google_ads/master/mod_stepanov_googleads.xml</server>
-    </updateservers>
+
+    
+    
 
 </extension>
