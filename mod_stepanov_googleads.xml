@@ -13,6 +13,7 @@
         <language tag="ru-RU">language/ru-RU/ru-RU.mod_stepanov_googleads.ini</language>
         <language tag="ru-RU">language/ru-RU/ru-RU.mod_stepanov_googleads.sys.ini</language>
    </languages>
+   
    <files>
 	<filename module="mod_stepanov_googleads">mod_stepanov_googleads.php</filename>
 	<filename>mod_stepanov_googleads.xml</filename>
