@@ -20,7 +20,7 @@
    </files>
    
     <updateservers>
-        <server type="extension" name="GOOGLE_ADSENCE" priority="1">https://raw.githubusercontent.com/Stepanov-Sergey/stepanov_google_ads/master/mod_stepanov_googleads.xml</server>
+        <server type="extension" name="GOOGLE_ADSENCE" priority="1">https://raw.githubusercontent.com/Stepanov-Sergey/stepanov_google_ads/master/stepanov_googleads_update.xml</server>
     </updateservers>
    
    
