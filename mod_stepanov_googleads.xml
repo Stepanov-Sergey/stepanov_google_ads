@@ -7,7 +7,7 @@
 	<license>GNU General Public License</license>
 	<authorEmail>tobeornottobe2006@yandex.ru</authorEmail>
 	<authorUrl>stepanov.nichost.ru</authorUrl>
-	<version>0.0.15</version>
+	<version>0.0.1</version>
 	<description>MOD_STEPANOV_GOOGLEADS_DESC</description>
    <languages>
         <language tag="ru-RU">language/ru-RU/ru-RU.mod_stepanov_googleads.ini</language>
