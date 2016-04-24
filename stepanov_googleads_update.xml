@@ -1,3 +1,3 @@
 <extensionset name="GOOGLE_ADSENCE">
-<extension name="Armenian" element="mod_stepanov_googleads" type="file" version="0.0.3" detailsurl="https://raw.githubusercontent.com/Stepanov-Sergey/stepanov_google_ads/master/update.xml"/>
+<extension name="GOOGLE_ADSENCE" element="mod_stepanov_googleads" type="file" version="0.0.4" detailsurl="https://raw.githubusercontent.com/Stepanov-Sergey/stepanov_google_ads/master/update.xml"/>
 </extensionset>
