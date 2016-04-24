@@ -9,7 +9,7 @@
                         <downloadurl type="full" format="zip">https://github.com/Stepanov-Sergey/stepanov_google_ads/archive/0.0.3.zip</downloadurl>
                 </downloads>
                 <maintainer>Sergey Stepanov</maintainer>
-                <maintainerurl>http://stepanov.nichost.ru</maintainerurl>
+                <maintainerurl>https://github.com/Stepanov-Sergey/stepanov_google_ads</maintainerurl>
                 <targetplatform name="joomla" version="3.1"/>
                 <client>site</client>
         </update>
