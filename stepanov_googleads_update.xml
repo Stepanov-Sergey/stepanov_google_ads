@@ -2,7 +2,7 @@
         <update>
                 <name>GOOGLE_ADSENCE</name>
                 <description>This is Joomla module for Google Adsence banner</description>
-                <element>mod_stepanov_google_ads</element>
+                <element>mod_stepanov_googleads</element>
                 <type>module</type>
                 <version>0.0.3</version>
                 <downloads>
@@ -17,7 +17,7 @@
                 <update>
                 <name>GOOGLE_ADSENCE</name>
                 <description>This is Joomla module for Google Adsence banner</description>
-                <element>mod_stepanov_google_ads</element>
+                <element>mod_stepanov_googleads</element>
                 <type>module</type>
                 <version>0.0.1</version>
                 <downloads>
