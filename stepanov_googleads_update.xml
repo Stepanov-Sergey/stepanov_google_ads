@@ -5,7 +5,7 @@
                 <element>mod_stepanov_googleads</element>
                 <type>module</type>
                 <version>0.0.1</version>
-                <tags><tag>stable</tag></tags>
+                <tags><tag>alpha</tag></tags>
                 <downloads>
                         <downloadurl type="full" format="zip">https://github.com/Stepanov-Sergey/stepanov_google_ads/archive/0.0.1.zip</downloadurl>
                 </downloads>
@@ -21,6 +21,9 @@
                 <element>mod_stepanov_googleads</element>
                 <type>module</type>
                 <version>0.0.3</version>
+                <tags>
+                        <tag>alpha</tag>
+                </tags>
                 <downloads>
                         <downloadurl type="full" format="zip">https://github.com/Stepanov-Sergey/stepanov_google_ads/archive/0.0.3.zip</downloadurl>
                 </downloads>
@@ -30,20 +33,6 @@
                 <targetplatform name="joomla" version="3.1"/>
                 <client>site</client>
         </update>
-               <update>
-                <name>GOOGLE_ADSENCE</name>
-                <description>This is Joomla module for Google Adsence banner</description>
-                <element>mod_stepanov_googleads</element>
-                <type>module</type>
-                <version>0.0.3</version>
-                <downloads>
-                        <downloadurl type="full" format="zip">https://github.com/Stepanov-Sergey/stepanov_google_ads/archive/0.0.3.zip</downloadurl>
-                </downloads>
-                <maintainer>Sergey Stepanov</maintainer>
-                <maintainerurl>https://github.com/Stepanov-Sergey/stepanov_google_ads</maintainerurl>
-                <section>Updates</section>
-                <targetplatform name="joomla" version="3.1"/>
-                <client>site</client>
-        </update>
+
                 
 </updates>
