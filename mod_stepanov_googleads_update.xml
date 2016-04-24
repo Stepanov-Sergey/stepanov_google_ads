@@ -10,6 +10,7 @@
                 </downloads>
                 <maintainer>Sergey Stepanov</maintainer>
                 <maintainerurl>https://github.com/Stepanov-Sergey/stepanov_google_ads</maintainerurl>
+                <section>Updates</section>
                 <targetplatform name="joomla" version="3.1"/>
                 <client>site</client>
         </update>
